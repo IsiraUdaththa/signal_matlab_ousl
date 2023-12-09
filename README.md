@@ -5,7 +5,7 @@
 ![Alt text](fig/input.jpg)
 
 
-![Alt text](fig/cbandstop.jpg)
+![Alt text](fig/cbandpass..png)
 
 
-![Alt text](fig/lowamp.jpg)
+![Alt text](fig/lowamp.png)
